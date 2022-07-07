@@ -1,0 +1,41 @@
+:root {
+  --bg1: #fff;
+  --bg2: #cdffda;
+  --font: "Catamaran", sans-serif;
+  --h1-font-size: 6.5rem;
+  --h1-font-weight: 900;
+  --h1-padding: 0rem;
+  --menu-radius: 0.5rem;
+  --menu-hover-color: #000;
+  --menu-hover-border: 0.4rem solid #02701f;
+  --h2-font-size: 2.5rem;
+  --h2-width: 17rem;
+  --btn-video-color: #fff;
+  --btn-video-border: 0.6rem;
+  --btn-video-bg: #02701f;
+  --btn-hover-bg: #000;
+  --img-width: 19rem;
+  --img-height: 12rem;
+  --img-w-600: 16rem;
+  --img-h-600: 10rem;
+  --img-w-400: 13rem;
+  --img-h-400: 7rem;
+}
+h1 {
+  line-height: 6.2rem;
+  color: #02701f;
+}
+h2 {
+  line-height: 3rem;
+}
+p.subtitle {
+  text-align: justify;
+  line-height: 1.25rem;
+}
+@media (max-width: 660px) {
+  .title.med.tted {
+    font-size: 4rem;
+    text-align: center;
+    line-height: 4rem;
+  }
+}

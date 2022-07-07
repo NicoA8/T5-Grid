@@ -1,0 +1,23 @@
+:root {
+  --bg1: #ac1a00;
+  --bg2: #000000;
+  --font: "Montserrat", sans-serif;
+  --h1-font-size: 3.5rem;
+  --h1-font-weight: 900;
+  --h1-padding: 0.5rem 0rem;
+  --menu-radius: 0rem;
+  --menu-hover-color: #000;
+  --menu-hover-border: 0.4rem solid #ff2a03;
+  --h2-font-size: 2rem;
+  --h2-width: 20rem;
+  --btn-video-color: #fff;
+  --btn-video-border: 0rem;
+  --btn-video-bg: #000;
+  --btn-hover-bg: #ff2a03;
+  --img-width: 17rem;
+  --img-height: 15rem;
+  --img-w-600: 13rem;
+  --img-h-600: 12rem;
+  --img-w-400: 10rem;
+  --img-h-400: 9rem;
+}

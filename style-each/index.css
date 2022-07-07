@@ -1,0 +1,27 @@
+:root {
+  --bg1: #fff;
+  --bg2: #d5eaff;
+  --font: "Work Sans", sans-serif;
+  --h1-font-size: 3.5rem;
+  --h1-font-weight: 900;
+  --h1-padding: 0.5rem 0rem;
+  --menu-radius: 3rem;
+  --menu-hover-color: #425979;
+  --menu-hover-border: 0.4rem solid #71cf89;
+  --h2-font-size: 2.5rem;
+  --h2-width: 12rem;
+  --btn-video-color: #000;
+  --btn-video-border: 3rem;
+  --btn-video-bg: #fcc840;
+  --btn-hover-bg: #ee8038;
+  --img-width: 18rem;
+  --img-height: 17rem;
+  --img-w-600: 13rem;
+  --img-h-600: 12rem;
+  --img-w-400: 10rem;
+  --img-h-400: 9rem;
+}
+
+h1.title {
+  font-family: "Montserrat", sans-serif;
+}
